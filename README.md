@@ -13,3 +13,16 @@ This project demonstrates how to design a scalable onboarding analytics framewor
 
 ## Project Status
 🚧 In progress — foundational data models and onboarding metrics under development.
+
+## Onboarding Flow
+This project models a simplified but realistic B2B SaaS onboarding journey:
+
+1. Company account created
+2. Admin user created
+3. Team members invited
+4. Payroll information submitted
+5. Compliance documents uploaded
+6. First employee paid
+7. Onboarding completed
+
+Each step is tracked as an event, allowing analysis of drop-offs, time-to-value, and operational bottlenecks.
