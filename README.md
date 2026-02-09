@@ -26,3 +26,6 @@ This project models a simplified but realistic B2B SaaS onboarding journey:
 7. Onboarding completed
 
 Each step is tracked as an event, allowing analysis of drop-offs, time-to-value, and operational bottlenecks.
+
+## What "Onboarding" Means in This Project
+In this context, onboarding refers to the customer onboarding journey in a B2B SaaS product — not employee training. It represents the process from a company creating an account to successfully completing its first meaningful use of the product (e.g. running the first payroll).
