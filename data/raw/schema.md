@@ -18,3 +18,12 @@
 - user_id (string)
 - event_name (string)
 - event_timestamp (timestamp)
+
+## Event Definitions
+- company_created
+- admin_created
+- team_invited
+- payroll_submitted
+- documents_uploaded
+- first_payment
+- onboarding_completed
